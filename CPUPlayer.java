@@ -48,8 +48,6 @@ class CPUPlayer {
       }
     }
 
-    System.out.println(Colors.RED + "#### " + bestScore + Colors.RESET);
-    System.out.println(Colors.RED + "#### " + bestMoves + Colors.RESET);
 
     return bestMoves;
   }
